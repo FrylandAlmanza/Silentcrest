@@ -2,7 +2,7 @@ Silentcrest.startMenu = function () {
     var options = [{
         text: "Start",
         callback: function () {
-            //Silentcrest.update = Silentcrest.play();
+            Silentcrest.update = Silentcrest.play();
         }
     }, {
         text: "Credits",
